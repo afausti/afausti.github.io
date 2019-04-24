@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/afausti/afausti.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Angelo Fausti](IMG_0619.JPG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
 
-### Markdown
+I've got my PhD in Astronomy in 2009 studying the [properties of dark matter halos](http://adsabs.harvard.edu/abs/2007MNRAS.381.1450N) in cosmological simulations such as the [Millennium simulation](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since then, I've worked in large astronomical projects like the [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/) and the [Large Synoptic Survey Telescope (LSST)](https://www.lsst.org/). 
 
-```markdown
-Syntax highlighted code block
+While in DES, I developed Quick Reduce (QR), a system for monitoring the quality of the Dark Energy camera images in real-time. My participation in DES includes several projects, in particular, a system for [creating science-ready catalogs](http://adsabs.harvard.edu/abs/2018A%26C....24...52F) from the DES data releases. 
 
-# Header 1
-## Header 2
-### Header 3
+As of 2015, I moved to Tucson, AZ and started working for LSST as a software engineer. LSST is building a unique wide-field optical telescope in Chile. It will collect about 500 petabytes of image data by observing the skies continuously for 10-years, and produce nearly instant alerts for objects that change in position or brightness every night. I'm a member of the LSST data management team, and my main projects are a service for monitoring the LSST Science Pipeline's metrics and the [Engineering Facility Database](https://sqr-034.lsst.io/) that will record data from inumerous devices and sensors to monitor the telescope and the observatory.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afausti/afausti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Find me on [Twitter](https://twitter.com/afausti) and check out my work on [GitHub](https://github.com/afausti).
