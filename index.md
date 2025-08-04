@@ -1,5 +1,5 @@
 
-![Angelo Fausti](IMG_0619.JPG)
+![Angelo Fausti](Angelo.png)
 
 ## About me
 
